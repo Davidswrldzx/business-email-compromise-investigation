@@ -11,7 +11,7 @@ Investigation
 
 I analyzed multiple .pcap files in Wireshark and used smtp and imf filters to isolate and examine email traffic.
 
-<img width="1920" height="1080" alt="cybersecurity project1 (wireshark)" src="https://github.com/user-attachments/assets/ab2db544-bc07-46ee-9bc1-08494e6b6419" />
+<img width="1920" height="992" alt="cybersecurity project1 (wireshark)" src="https://github.com/user-attachments/assets/f9ca8440-946a-485a-b137-834bc6644115" />
 
 Through my analysis, I identified 24 phishing emails. I examined their subject lines, message data, and associated network traffic to trace the malicious activity back to its source.
 
