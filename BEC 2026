@@ -17,9 +17,15 @@ I analyzed multiple .pcap files in Wireshark and used smtp and imf filters to is
 
 <img width="1920" height="992" alt="cybersecurity project1 (wireshark)" src="https://github.com/user-attachments/assets/f9ca8440-946a-485a-b137-834bc6644115" />
 
+This Capture shows the use of the "smtp" filter to identify mail traffic
+
 Through my analysis, I identified 24 phishing emails. I examined their subject lines, message data, and associated network traffic to trace the malicious activity back to its source.
 
 <img width="1920" height="1013" alt="wireshark filter imf 2" src="https://github.com/user-attachments/assets/f133063b-40f6-45a4-8ad4-37eb138148a4" />
+
+<img width="1920" height="492" alt="closer look" src="https://github.com/user-attachments/assets/48bde3b4-7ca6-409a-8947-3bb00384b3cf" />
+
+This Capture shows the phishing emails after using the "imf.from" filter 
 
 ## Key Findings
 
@@ -44,12 +50,12 @@ when analyzing suspicious activity.
 
 ## Skills Practiced
 
-Wireshark
-Network Traffic Analysis
-PCAP Analysis
-SMTP/IMF Analysis
-Phishing Investigation
-Network Forensics
+Wireshark,
+Network Traffic Analysis,
+PCAP Analysis,
+SMTP/IMF Analysis,
+Phishing Investigation,
+Network Forensics,
 Key Takeaway
 
 ## Conclusion
